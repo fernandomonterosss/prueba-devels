@@ -20,5 +20,7 @@ Esto instalara todas las librerias necesarias para poder correr el proyecto loca
 El sdk del lector QR se realizo utilizando librerias nativas como ayuda por lo tanto las validaciones, permisos y el parseo de resultados son lo mas importante dentro de este SDK nativo llamado QrLibrary. Para implementarlo dentro del proyecto de qr_app_devels se genero un puente con flutter utilizando methodChannels y se genero el archivo ".aar". Luego ese archivo se coloco dentro del directorio android/libs para poder ser utilizado desde cualquier parte de la aplicación.
 
 
+## Entregables
 
+Para poder ver el release y descargar el apk haga clic en el siguiente enlace [aquí](https://github.com/fernandomonterosss/prueba-devels/releases/tag/V1.0.0) y para ver el video de demostración [video](https://drive.google.com/drive/folders/1xE4hQfaqQysw9rbnWQYx3gOthLzELUr5?usp=sharing)
 
